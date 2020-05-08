@@ -4,4 +4,5 @@
 
 Altri esercizi di varia natura più progetti più sostanziosi saranno inseriti di volta in volta.
 
-![image](file://C:/Users/claud/Desktop/Programmazione/java/Java_ripasso/Java.png)
+![Java](https://user-images.githubusercontent.com/53294518/81448527-ca0d5680-917e-11ea-9fe9-c68cd6bca716.jpg)
+
