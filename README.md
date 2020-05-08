@@ -4,4 +4,4 @@
 
 Altri esercizi di varia natura più progetti più sostanziosi saranno inseriti di volta in volta.
 
-![image](C:\Users\claud\Desktop\Programmazione\java\Java_ripasso)
+![image](file://C:\Users\claud\Desktop\Programmazione\java\Java_ripasso)
